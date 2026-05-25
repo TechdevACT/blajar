@@ -1,0 +1,666 @@
+[
+  {
+    "slug": "bundle-live-shopping",
+    "name": "Bundle: TikTok Live + Shopee Live",
+    "category": "bundle",
+    "price": 129000,
+    "price_original": 158000,
+    "mayar_url": "#",
+    "accent_color": "#7C3AED",
+    "thumbnail": "/images/bundle-live-shopping.jpg",
+    "headline": "Bundle: TikTok Live + Shopee Live",
+    "subheadline": "Dua panduan live shopping terlengkap untuk toko yang mau serius di era digital",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Hanya andalkan satu platform live — menutup diri dari pembeli yang ada di platform lain",
+      "Strategi TikTok Live dan Shopee Live sering tertukar — keduanya beda mindset, beda taktik",
+      "Habiskan waktu dan uang coba-coba sendiri padahal panduan praktisnya sudah ada"
+    ],
+    "modules": [
+      {
+        "tag": "Panduan TikTok Live Shopping",
+        "desc": "Strategi awareness → konversi lewat konten yang engaging"
+      },
+      {
+        "tag": "Panduan Shopee Live Shopping",
+        "desc": "Strategi konversi tinggi dengan flash deal & voucher"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "🚀",
+        "title": "Toko yang mau ekspansi cepat",
+        "desc": "ke dua platform sekaligus dengan strategi yang tepat per platform"
+      },
+      {
+        "icon": "📊",
+        "title": "Owner yang data-driven",
+        "desc": "ingin diversifikasi channel dan tidak mau bergantung pada satu platform"
+      },
+      {
+        "icon": "⚡",
+        "title": "Yang mau value maksimal",
+        "desc": "dengan investasi minimal — dua panduan, satu harga bundle"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya pikir strategi live itu sama aja di semua platform. Setelah baca bundle ini, saya sadar kenapa live Shopee saya sepi padahal TikTok sudah mulai ramai — beda strategi total.\"",
+        "author": "— Pak Agus, Toko Perabot Rumah"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Bundlenya worth it banget. Kalau beli satuan saja sudah worth, beli bundle ini lebih masuk akal.\"",
+        "author": "— Bu Mega, Toko Fashion Muslimah"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "2 file PDF dikirim otomatis setelah pembayaran. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  },
+  {
+    "slug": "bundle-transisi-generasi",
+    "name": "Bundle: Seri Transisi Generasi",
+    "category": "bundle",
+    "price": 159000,
+    "price_original": 198000,
+    "mayar_url": "#",
+    "accent_color": "#B8860B",
+    "thumbnail": "/images/bundle-transisi-generasi.jpg",
+    "headline": "Bundle: Seri Transisi Generasi",
+    "subheadline": "Panduan lengkap untuk bisnis keluarga yang sedang atau akan melewati pergantian generasi",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Gen 1 dan Gen 2 melihat transisi dari perspektif yang berbeda — sering salah paham",
+      "Beli satu panduan saja tidak cukup — transisi yang sehat butuh kedua pihak siap",
+      "Tidak ada panduan dalam Bahasa Indonesia yang membahas ini dengan praktis dan spesifik"
+    ],
+    "modules": [
+      {
+        "tag": "Panduan Gen 1: Mewariskan Bisnis ke Gen 2",
+        "desc": "Apa yang harus disiapkan sebelum mundur"
+      },
+      {
+        "tag": "Panduan Gen 2: Memimpin Tanpa Karisma Orang Tua",
+        "desc": "Cara membangun otoritas lewat sistem"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "👨‍👩‍👦",
+        "title": "Pasangan Gen 1 & Gen 2",
+        "desc": "yang baca bersama agar transisi berjalan dengan pemahaman yang sama"
+      },
+      {
+        "icon": "🏘️",
+        "title": "Keluarga bisnis yang sedang merencanakan",
+        "desc": "suksesi dalam 1-3 tahun ke depan"
+      },
+      {
+        "icon": "💡",
+        "title": "Konsultan & pendamping bisnis",
+        "desc": "yang mendampingi klien bisnis keluarga melalui proses transisi"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Kami baca bareng dan diskusi tiap bab. Banyak hal yang selama ini tidak pernah dibicarakan, akhirnya jadi obrolan yang terbuka. Panduan ini jadi 'jembatan' kami.\"",
+        "author": "— Pak Wahyu & anaknya Gilang, Bisnis Material"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya belikan untuk anak perempuan saya yang akan ambil alih tahun depan. Setelah dia baca, banyak pertanyaan bagus yang dia ajukan ke saya. Prosesnya jadi lebih smooth.\"",
+        "author": "— Bu Ningsih, Owner Toko Grosir"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "2 file PDF dikirim otomatis setelah pembayaran. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  },
+  {
+    "slug": "panduan-gen1-wariskan-bisnis",
+    "name": "Gen 1: Mewariskan Bisnis ke Gen 2",
+    "category": "transisi-generasi",
+    "price": 99000,
+    "price_original": 199000,
+    "mayar_url": "#",
+    "accent_color": "#C8860A",
+    "thumbnail": "/images/panduan-gen1-wariskan-bisnis.jpg",
+    "headline": "Panduan Gen 1: Mewariskan Bisnis ke Gen 2",
+    "subheadline": "Apa yang perlu disiapkan sebelum Anda mundur — agar bisnis tidak ikut mundur bersama Anda",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Semua keputusan penting masih harus menunggu Anda — bisnis tidak bisa jalan tanpa Anda",
+      "Sudah serahkan ke anak tapi karyawan lama masih melapor ke Anda, bukan ke dia",
+      "Takut melepas karena khawatir bisnis yang dibangun 20 tahun hancur di tangan generasi berikutnya",
+      "Tidak tahu cara mendokumentasikan 'ilmu kepala' yang selama ini hanya ada di pikiran Anda",
+      "Ingin pensiun tapi tidak ada sistem yang bisa berjalan tanpa kehadiran Anda"
+    ],
+    "modules": [
+      {
+        "tag": "Bab 1",
+        "desc": "Mengapa suksesi bisnis keluarga sering gagal — 3 akar masalah yang jarang diakui"
+      },
+      {
+        "tag": "Bab 2",
+        "desc": "Lima hal yang harus disiapkan Gen 1 sebelum mundur"
+      },
+      {
+        "tag": "Bab 3",
+        "desc": "Cara mendokumentasikan pengetahuan tacit yang selama ini ada di kepala"
+      },
+      {
+        "tag": "Bab 4",
+        "desc": "Checklist kesiapan 15 poin — dokumentasi, otoritas, percakapan keluarga"
+      },
+      {
+        "tag": "Bab 5",
+        "desc": "Template 'Prinsip Bisnis Gen 1' — warisan cara berpikir untuk Gen 2"
+      },
+      {
+        "tag": "BONUS",
+        "desc": "Script pengumuman formal ke karyawan — kata-kata yang tepat untuk momen penting ini"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "👴",
+        "title": "Pendiri bisnis generasi pertama",
+        "desc": "yang mulai memikirkan siapa yang akan melanjutkan setelah mereka"
+      },
+      {
+        "icon": "🏢",
+        "title": "Owner bisnis keluarga 10+ tahun",
+        "desc": "yang ingin pensiun tapi tidak tahu caranya melepas dengan benar"
+      },
+      {
+        "icon": "👨‍👧",
+        "title": "Orang tua dengan pewaris bisnis",
+        "desc": "yang ingin memastikan transisi berjalan mulus tanpa drama keluarga"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya sudah 25 tahun di bisnis ini. Dokumen 'Prinsip Bisnis' yang ada di panduan ini membuat saya sadar betapa banyak ilmu yang belum pernah saya tulis untuk anak saya.\"",
+        "author": "— Pak Bambang, Owner Toko Material Bandung"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Bagian script pengumuman ke karyawan sangat membantu. Saya tidak tahu harus bilang apa saat serah terima. Ternyata ada caranya.\"",
+        "author": "— Bu Hartini, Owner Konveksi Semarang"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Timeline transisi 5 fase membuka mata saya. Ternyata suksesi yang sehat butuh 3-5 tahun, bukan sebulan. Saya hampir melakukan kesalahan besar.\"",
+        "author": "— Pak Suharto, Distributor Makanan"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "PDF siap pakai — bisa dibaca dan didiskusikan bersama keluarga. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  },
+  {
+    "slug": "panduan-gen2-pimpin-tanpa-karisma",
+    "name": "Gen 2: Memimpin Tanpa Karisma Orang Tua",
+    "category": "transisi-generasi",
+    "price": 99000,
+    "price_original": 199000,
+    "mayar_url": "#",
+    "accent_color": "#0A9E8A",
+    "thumbnail": "/images/panduan-gen2-pimpin-tanpa-karisma.jpg",
+    "headline": "Panduan Gen 2: Memimpin Tanpa Karisma Orang Tua",
+    "subheadline": "Cara membangun otoritas lewat sistem ketika tim lebih loyal ke Gen 1 daripada ke Anda",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Karyawan yang sudah 15 tahun di bisnis ini tidak mau menuruti instruksi Anda",
+      "Setiap keputusan Anda dibandingkan dengan cara orang tua — dan Anda selalu kalah",
+      "Ada karyawan senior yang terlihat kooperatif tapi di belakang melobi Gen 1 untuk override keputusan Anda",
+      "Merasa seperti 'anak bos' bukan pemimpin sungguhan di mata tim",
+      "Tidak tahu harus mulai dari mana — terlalu banyak yang perlu diubah tapi takut salah langkah"
+    ],
+    "modules": [
+      {
+        "tag": "Bab 1",
+        "desc": "Realita yang tidak ada di buku manajemen — tantangan unik Gen 2"
+      },
+      {
+        "tag": "Bab 2",
+        "desc": "Dua jebakan paling sering dilakukan Gen 2 dan jalan keluarnya"
+      },
+      {
+        "tag": "Bab 3",
+        "desc": "Empat pilar otoritas yang tidak bergantung pada karisma"
+      },
+      {
+        "tag": "Bab 4",
+        "desc": "Cara menghadapi 3 tipe karyawan senior: Loyalist, Skeptic, Opportunist"
+      },
+      {
+        "tag": "Bab 5",
+        "desc": "Tiga sistem prioritas yang harus dibangun di tahun pertama"
+      },
+      {
+        "tag": "Bab 6",
+        "desc": "Cara mengubah aturan lama tanpa menimbulkan perlawanan"
+      },
+      {
+        "tag": "BONUS",
+        "desc": "Checklist 90 hari pertama Gen 2 + template percakapan satu-satu dengan karyawan senior"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "👶",
+        "title": "Penerus bisnis keluarga",
+        "desc": "yang baru atau akan segera memegang kendali dari generasi pertama"
+      },
+      {
+        "icon": "🎓",
+        "title": "Gen 2 yang sudah sekolah tinggi",
+        "desc": "tapi merasa ilmu di kampus tidak mengajarkan cara menghadapi tim warisan orang tua"
+      },
+      {
+        "icon": "💼",
+        "title": "Profesional yang masuk ke bisnis keluarga",
+        "desc": "setelah karir di luar dan menghadapi resistensi dari dalam"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Bagian tentang tiga tipe karyawan senior itu akurat banget. Saya langsung tahu siapa The Loyalist, siapa The Skeptic, dan siapa yang perlu diwaspadai di tim saya.\"",
+        "author": "— Rafi, 28 tahun, pewaris toko distributor"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Template percakapan satu-satu di Bab 4 mengubah cara saya approach karyawan senior. Dari yang tadinya tegang, sekarang mereka justru merasa dihargai.\"",
+        "author": "— Dian, 32 tahun, penerus bisnis konveksi"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya hampir masuk jebakan 'terlalu ingin disukai'. Panduan ini datang tepat waktu sebelum saya kehilangan respek tim sepenuhnya.\"",
+        "author": "— Kevin, 30 tahun, generasi kedua bisnis kuliner"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "PDF siap pakai — paling efektif dibaca sebelum atau di awal masa transisi. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  },
+  {
+    "slug": "panduan-shopee-live-toko",
+    "name": "Shopee Live Shopping",
+    "category": "live-shopping",
+    "price": 79000,
+    "price_original": 149000,
+    "mayar_url": "#",
+    "accent_color": "#EE4D2D",
+    "thumbnail": "/images/panduan-shopee-live-toko.jpg",
+    "headline": "Panduan Shopee Live Shopping",
+    "subheadline": "Panduan konversi tinggi untuk toko yang mau langsung menghasilkan — bukan sekadar tampil",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Sudah buka toko di Shopee tapi penjualan stagnan dan tidak tahu cara akselerasi",
+      "Tidak tahu bedanya Shopee Live dengan TikTok Live — strategi yang salah bikin rugi waktu",
+      "Flash deal dan voucher ada tapi tidak tahu cara menggunakannya secara strategis",
+      "Penonton masuk saat live tapi tidak ada yang beli — conversion rate nol",
+      "Belum tahu fitur apa saja yang harus diaktifkan sebelum mulai live"
+    ],
+    "modules": [
+      {
+        "tag": "Bab 1",
+        "desc": "Shopee Live vs TikTok Live — perbandingan langsung dan siapa yang cocok"
+      },
+      {
+        "tag": "Bab 2",
+        "desc": "8 fitur eksklusif Shopee Live yang tidak ada di platform lain"
+      },
+      {
+        "tag": "Bab 3",
+        "desc": "Checklist setup akun Shopee Seller sebelum live pertama"
+      },
+      {
+        "tag": "Bab 4",
+        "desc": "Strategi live Shopee: mindset berbeda, hasil berbeda"
+      },
+      {
+        "tag": "Bab 5",
+        "desc": "Layer urgensi voucher & flash deal — timeline strategis"
+      },
+      {
+        "tag": "Bab 6",
+        "desc": "Optimasi algoritma Shopee Live agar makin sering direkomendasikan"
+      },
+      {
+        "tag": "Bab 7",
+        "desc": "Rencana 30 hari pertama di Shopee Live"
+      },
+      {
+        "tag": "BONUS",
+        "desc": "Template WA broadcast + checklist pre-live khusus Shopee"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "🏬",
+        "title": "Seller Shopee aktif",
+        "desc": "yang sudah punya produk dan rating tapi ingin akselerasi omzet"
+      },
+      {
+        "icon": "🔄",
+        "title": "Yang sudah coba TikTok Live",
+        "desc": "dan ingin ekspansi ke channel yang lebih transaksional"
+      },
+      {
+        "icon": "💰",
+        "title": "Owner yang fokus konversi",
+        "desc": "bukan viral — ingin setiap live langsung menghasilkan pesanan"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya tidak tahu flash deal harus diset SEBELUM live dimulai. Selama ini baru set di tengah live. Pantas saja penonton tidak lihat promo saya.\"",
+        "author": "— Ibu Sari, Toko Perlengkapan Bayi"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Setelah pakai strategi layer urgensi dari panduan ini, conversion rate live saya naik dari 2% ke 11% dalam 3 sesi.\"",
+        "author": "— Mas Faisal, Toko Elektronik"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Bagian optimasi algoritma Shopee sangat berguna. Sekarang saya mengerti kenapa konsistensi jadwal live itu penting banget.\"",
+        "author": "— Bu Wulan, Toko Herbal"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "PDF siap pakai + bisa langsung diprint. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  },
+  {
+    "slug": "panduan-tiktok-live-toko",
+    "name": "TikTok Live Shopping",
+    "category": "live-shopping",
+    "price": 79000,
+    "price_original": 149000,
+    "mayar_url": "#",
+    "accent_color": "#FE2C55",
+    "thumbnail": "/images/panduan-tiktok-live-toko.jpg",
+    "headline": "Panduan TikTok Live Shopping",
+    "subheadline": "Dari toko fisik ke layar live — panduan step-by-step tanpa harus jago teknologi",
+    "stats": [
+      {
+        "number": "PDF",
+        "label": "Format siap pakai"
+      },
+      {
+        "number": "100%",
+        "label": "Praktis & actionable"
+      },
+      {
+        "number": "ID",
+        "label": "Bahasa Indonesia"
+      }
+    ],
+    "pain_points": [
+      "Toko makin sepi tapi tidak tahu harus mulai dari mana",
+      "Lihat toko lain live dan ramai pembeli, tapi merasa tidak percaya diri",
+      "Takut tampil di kamera dan tidak tahu mau ngomong apa",
+      "Sudah coba live tapi sepi penonton dan tidak ada yang beli",
+      "Bingung harus beli peralatan apa dulu sebelum mulai"
+    ],
+    "modules": [
+      {
+        "tag": "Bab 1",
+        "desc": "Kenapa TikTok Live sekarang? Tabel tipe toko & busting 5 mitos"
+      },
+      {
+        "tag": "Bab 2",
+        "desc": "Cara kerja, 6 fitur wajib, dan jam live yang paling efektif"
+      },
+      {
+        "tag": "Bab 3",
+        "desc": "Setup dalam 1 hari: checklist peralatan + setup TikTok Shop"
+      },
+      {
+        "tag": "Bab 4",
+        "desc": "Skrip live lengkap: struktur 60 menit + 3 template opening"
+      },
+      {
+        "tag": "Bab 5",
+        "desc": "Checklist pasca-live + 5 metrik yang harus dipantau"
+      },
+      {
+        "tag": "Bab 6",
+        "desc": "Troubleshooting 6 masalah paling sering terjadi"
+      },
+      {
+        "tag": "Bab 7",
+        "desc": "Rencana 30 hari pertama yang realistis"
+      },
+      {
+        "tag": "BONUS",
+        "desc": "Template WA broadcast + checklist pre-live siap print"
+      }
+    ],
+    "personas": [
+      {
+        "icon": "🏪",
+        "title": "Pemilik toko fisik",
+        "desc": "yang mulai merasakan penurunan pembeli datang langsung"
+      },
+      {
+        "icon": "📦",
+        "title": "Penjual online biasa",
+        "desc": "yang mau coba channel baru dengan potensi lebih besar"
+      },
+      {
+        "icon": "👨‍👩‍👧",
+        "title": "UMKM keluarga",
+        "desc": "yang ingin generasi muda bantu jualan secara digital"
+      }
+    ],
+    "testimonials": [
+      {
+        "stars": "★★★★★",
+        "text": "\"Live pertama saya sepi banget, tapi setelah pakai template opening dari panduan ini, minggu ke-3 sudah ada 40 penonton dan 8 yang beli. Alhamdulillah.\"",
+        "author": "— Pak Hendra, Toko Sembako Bekasi"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Saya pikir harus beli ring light mahal dulu. Ternyata HP biasa dan cahaya jendela sudah cukup. Langsung coba malam itu juga.\"",
+        "author": "— Bu Ratna, Toko Fashion Surabaya"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "\"Bagian skrip dan urutan presentasi produk itu yang paling berguna. Sekarang saya tahu persis apa yang harus diucapkan dan kapan.\"",
+        "author": "— Mas Dedi, Toko Aksesoris Motor"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapatkan file setelah membayar?",
+        "a": "Setelah pembayaran terkonfirmasi, link download akan dikirim otomatis ke WhatsApp dan email yang Anda daftarkan saat checkout. Tidak perlu menunggu konfirmasi manual."
+      },
+      {
+        "q": "Format file-nya apa?",
+        "a": "PDF siap pakai + bisa langsung diprint. Bisa dibuka di HP maupun laptop. Untuk PDF bisa langsung dibaca di aplikasi Files atau Google Drive."
+      },
+      {
+        "q": "Apakah bisa direfund?",
+        "a": "Karena ini produk digital yang langsung bisa diakses setelah pembayaran, kami tidak menerima refund. Pastikan Anda membaca deskripsi produk dengan seksama sebelum membeli."
+      },
+      {
+        "q": "Apakah isi panduan ini up-to-date?",
+        "a": "Ya, panduan ini ditulis berdasarkan kondisi platform dan praktik bisnis di Indonesia tahun 2026. Kami update secara berkala kalau ada perubahan signifikan."
+      },
+      {
+        "q": "Bisa dipakai untuk bisnis jenis apa saja?",
+        "a": "Panduan ini ditulis untuk UMKM dan bisnis skala kecil-menengah di Indonesia. Contoh kasus dan strategi disesuaikan dengan konteks bisnis Indonesia."
+      }
+    ]
+  }
+]
