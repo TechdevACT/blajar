@@ -17,7 +17,7 @@ export function SiteFooter() {
           <li><Link href="/contact" className="hover:text-accent">Kontak</Link></li>
         </ul>
         <p className="text-xs text-muted-foreground">
-          © {new Date().getFullYear()} blajar.com — Dibuat dengan ❤️ di Indonesia
+          © {new Date().getFullYear()} blajar.com — Designed by act! Digital Agency
         </p>
       </div>
     </footer>
