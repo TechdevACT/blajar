@@ -35,9 +35,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
-const Hero3D = lazy(() =>
-  import("@/components/Hero3D").then((m) => ({ default: m.Hero3D })),
-);
+
 
 export default function HomePage() {
   const [mounted, setMounted] = useState(false);
@@ -49,12 +47,52 @@ export default function HomePage() {
 
       {/* ── HERO ── */}
       <section className="relative overflow-hidden bg-radial-accent grid-noise min-h-[92vh] flex items-center justify-center px-6 py-24">
-        {mounted && (
-          <Suspense fallback={null}>
-            <Hero3D />
-          </Suspense>
-        )}
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/40 to-background pointer-events-none" />
+        {/* Modern Floating UI Elements (Glassmorphism) */}
+        <div className="absolute inset-0 overflow-hidden pointer-events-none flex items-center justify-center">
+          {/* Decorative Grid Lines */}
+          <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff0a_1px,transparent_1px),linear-gradient(to_bottom,#ffffff0a_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_60%_60%_at_50%_50%,#000_70%,transparent_100%)] opacity-50" />
+          
+          {/* Card 1: Top Left */}
+          <div className="absolute top-[15%] left-[5%] md:left-[15%] lg:left-[20%] animate-float">
+            <div className="w-40 md:w-56 bg-card/40 backdrop-blur-xl border border-border/60 p-5 rounded-2xl shadow-2xl rotate-[-6deg]">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 rounded-full bg-accent/20 flex items-center justify-center text-accent">
+                  <Store size={18} />
+                </div>
+                <div className="flex-1">
+                  <div className="h-2 w-16 bg-muted-foreground/30 rounded-full mb-2" />
+                  <div className="h-2 w-24 bg-muted-foreground/20 rounded-full" />
+                </div>
+              </div>
+              <div className="space-y-3">
+                <div className="h-2 w-full bg-muted-foreground/20 rounded-full" />
+                <div className="h-2 w-4/5 bg-muted-foreground/20 rounded-full" />
+              </div>
+            </div>
+          </div>
+
+          {/* Card 2: Bottom Right */}
+          <div className="absolute bottom-[20%] right-[5%] md:right-[15%] lg:right-[20%] animate-float-delayed">
+            <div className="w-44 md:w-64 bg-card/40 backdrop-blur-xl border border-border/60 p-5 rounded-2xl shadow-2xl rotate-[5deg]">
+              <div className="flex items-center justify-between mb-6">
+                <div className="flex items-center gap-2">
+                  <div className="h-2 w-8 bg-muted-foreground/30 rounded-full" />
+                  <div className="h-2 w-12 bg-muted-foreground/20 rounded-full" />
+                </div>
+                <div className="flex text-accent">
+                  <Star size={14} className="fill-accent" /><Star size={14} className="fill-accent" /><Star size={14} className="fill-accent" />
+                </div>
+              </div>
+              <div className="flex items-end gap-2 h-16">
+                <div className="flex-1 bg-accent/30 rounded-t-sm h-1/4" />
+                <div className="flex-1 bg-accent/50 rounded-t-sm h-2/4" />
+                <div className="flex-1 bg-accent/80 rounded-t-sm h-3/4" />
+                <div className="flex-1 bg-accent rounded-t-sm h-full shadow-[0_0_15px_rgba(200,134,10,0.5)]" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/60 to-background pointer-events-none" />
 
         <div className="relative z-10 max-w-3xl mx-auto text-center">
           <span className="inline-flex items-center gap-2 bg-accent text-accent-foreground text-xs font-bold px-4 py-1.5 rounded-full uppercase tracking-widest mb-6">
@@ -65,7 +103,7 @@ export default function HomePage() {
           </p>
           <h1 className="font-display text-[clamp(2.4rem,7vw,4.8rem)] leading-[1.05] font-black mb-6">
             Dari toko fisik <br />
-            ke <em className="not-italic text-gradient-accent">era digital.</em>
+            ke <em className="not-italic text-gradient-accent-animated">era digital.</em>
           </h1>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto mb-10">
             Panduan PDF step-by-step yang bisa langsung dipraktikkan hari ini. Tanpa
@@ -74,7 +112,7 @@ export default function HomePage() {
           <div className="flex flex-wrap gap-3 justify-center">
             <Link
               href="/products"
-              className="inline-flex items-center gap-2 bg-accent text-accent-foreground font-bold px-7 py-4 rounded-xl glow-accent hover:-translate-y-0.5 hover:glow-accent-lg transition-all"
+              className="btn-shine inline-flex items-center gap-2 bg-accent text-accent-foreground font-bold px-7 py-4 rounded-xl glow-accent hover:-translate-y-0.5 hover:glow-accent-lg transition-all"
             >
               Lihat semua panduan <ArrowRight size={18} />
             </Link>
@@ -85,9 +123,7 @@ export default function HomePage() {
               Kenal lebih dekat
             </Link>
           </div>
-          <p className="text-xs text-muted-foreground mt-6">
-            ✨ Arahkan kursor ke objek 3D di atas
-          </p>
+
         </div>
       </section>
 
@@ -109,12 +145,18 @@ export default function HomePage() {
             ))}
           </div>
 
-          <div className="mt-12 flex flex-wrap items-center justify-center gap-8 md:gap-12 opacity-40">
-            {["Tokopedia", "Shopee", "TikTok Shop", "GoTo", "Grab"].map((logo) => (
-              <span key={logo} className="font-display text-lg font-bold tracking-tight text-muted-foreground">
-                {logo}
-              </span>
-            ))}
+          <div className="mt-16 overflow-hidden relative [mask-image:linear-gradient(to_right,transparent,black_10%,black_90%,transparent)]">
+            <div className="flex gap-16 md:gap-24 animate-marquee opacity-40 hover:[animation-play-state:paused] w-max">
+              {[...Array(2)].map((_, j) => (
+                <div key={j} className="flex gap-16 md:gap-24 items-center">
+                  {["Tokopedia", "Shopee", "TikTok Shop", "GoTo", "Grab", "Instagram", "WhatsApp"].map((logo) => (
+                    <span key={logo} className="font-display text-xl md:text-2xl font-bold tracking-tight text-muted-foreground whitespace-nowrap">
+                      {logo}
+                    </span>
+                  ))}
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>
