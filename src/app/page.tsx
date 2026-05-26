@@ -181,7 +181,7 @@ export default function HomePage() {
             {/* Wide card */}
             <div className="md:col-span-3 bg-card border border-border rounded-2xl p-8 relative overflow-hidden group hover:border-accent transition">
               <div className="absolute -top-12 -right-12 w-40 h-40 rounded-full bg-accent/8 blur-3xl" />
-              <div className="relative z-10 flex flex-col md:flex-row md:items-center gap-6">
+              <div className="relative z-10 h-full flex flex-col justify-center md:flex-row md:items-center gap-6">
                 <div className="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center text-accent shrink-0 group-hover:scale-110 transition-transform origin-left">
                   <Shield size={24} />
                 </div>

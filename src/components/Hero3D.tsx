@@ -3,6 +3,21 @@ import { MeshDistortMaterial, Float, Environment } from "@react-three/drei";
 import { Suspense, useRef, useState } from "react";
 import type { Mesh } from "three";
 
+if (typeof console !== "undefined") {
+  const originalWarn = console.warn;
+  console.warn = (...args) => {
+    if (
+      typeof args[0] === "string" &&
+      (args[0].includes("THREE.WebGLProgram: Program Info Log") ||
+        args[0].includes("THREE.Clock: This module has been deprecated"))
+    ) {
+      return;
+    }
+    originalWarn(...args);
+  };
+}
+
+
 function MorphingShape() {
   const ref = useRef<Mesh>(null);
   const [hovered, setHovered] = useState(false);
